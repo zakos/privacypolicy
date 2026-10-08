@@ -1,13 +1,12 @@
 # Adatvédelmi tájékoztató – Silent Courier: Carry On
 
-*Hatályos: [DÁTUM] · Utolsó módosítás: [DÁTUM]*
+*Hatályos: 2026. október 8. · Utolsó módosítás: 2026. október 8.*
 
 
 ## 1. Ki kezeli az adatokat?
 
-**Adatkezelő:** [NÉV / CÉGNÉV]
-**Cím:** [CÍM]
-**Kapcsolat:** [E-MAIL]
+- **Adatkezelő:** Zimmermann Ákos
+- **Kapcsolat:** zimmermannakos@gmail.com
 
 Ez a tájékoztató a *Silent Courier: Carry On* mobiljátékra (Android, csomagnév: `hu.zakos.carryon`) vonatkozik.
 
@@ -62,7 +61,7 @@ A GDPR alapján jogod van:
 
 A legtöbb adat csak a készülékeden van; ezeket az alkalmazás törlésével magad is törölheted. A Google által kezelt adatokkal kapcsolatban a Google-fiókod beállításaiban (https://myaccount.google.com) vagy az Android **Beállítások → Google → Hirdetések** menüjében is intézkedhetsz (pl. a hirdetési azonosító törlése).
 
-Kérdés vagy kérés esetén írj nekünk: [E-MAIL].
+Kérdés vagy kérés esetén írj nekünk: zimmermannakos@gmail.com.
 
 **Panasz:** ha úgy érzed, hogy megsértettük a jogaidat, panaszt tehetsz a Nemzeti Adatvédelmi és Információszabadság Hatóságnál (NAIH, https://naih.hu), vagy a lakóhelyed szerinti adatvédelmi hatóságnál.
 
@@ -74,13 +73,12 @@ Ha ez a tájékoztató változik, a frissített változatot ezen az oldalon tess
 
 # Privacy Policy – Silent Courier: Carry On
 
-*Effective: [DATE] · Last updated: [DATE]*
+*Effective: 8 October 2026 · Last updated: 8 October 2026*
 
 ## 1. Who is responsible?
 
-**Controller:** [NAME / COMPANY]
-**Address:** [ADDRESS]
-**Contact:** [E-MAIL]
+- **Controller:** Ákos Zimmermann
+- **Contact:** zimmermannakos@gmail.com
 
 This policy applies to the mobile game *Silent Courier: Carry On* (Android, package `hu.zakos.carryon`).
 
@@ -104,7 +102,7 @@ On-device data stays until you uninstall the app. For data processed by Google, 
 The game is not directed at children under 16, and we do not knowingly collect data from children.
 
 ## 6. Your rights
-You have the right to access, rectify or erase your data, to object to or restrict processing, and to withdraw consent at any time (Settings → Privacy settings) without affecting prior processing. You can reset or delete your advertising ID in Android **Settings → Google → Ads**. Contact: [E-MAIL]. You may lodge a complaint with the Hungarian National Authority for Data Protection and Freedom of Information (NAIH, https://naih.hu) or your local supervisory authority.
+You have the right to access, rectify or erase your data, to object to or restrict processing, and to withdraw consent at any time (Settings → Privacy settings) without affecting prior processing. You can reset or delete your advertising ID in Android **Settings → Google → Ads**. Contact: zimmermannakos@gmail.com. You may lodge a complaint with the Hungarian National Authority for Data Protection and Freedom of Information (NAIH, https://naih.hu) or your local supervisory authority.
 
 ## 7. Changes
 We will publish any updated version on this page with its effective date.
