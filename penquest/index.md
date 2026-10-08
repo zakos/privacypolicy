@@ -8,7 +8,7 @@
 - **Adatkezelő:** Zimmermann Ákos
 - **Kapcsolat:** zimmermannakos@gmail.com
 
-Ez a tájékoztató a *Karámfoglalás* (angolul: *Pen Quest*) mobiljátékra (Android) vonatkozik.
+Ez a tájékoztató a *Karámfoglalás* (angolul: *Pen Quest*) mobiljátékra (Android, csomagnév: `hu.zakos.penquest`) vonatkozik.
 
 ## 2. Milyen adatokat kezelünk, és miért?
 
@@ -85,7 +85,7 @@ Ha ez a tájékoztató változik, a frissített változatot ezen az oldalon tess
 - **Controller:** Ákos Zimmermann
 - **Contact:** zimmermannakos@gmail.com
 
-This policy applies to the mobile game *Pen Quest* (Hungarian title: *Karámfoglalás*) for Android.
+This policy applies to the mobile game *Pen Quest* (Hungarian title: *Karámfoglalás*; Android, package `hu.zakos.penquest`).
 
 ## 2. What data we process and why
 

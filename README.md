@@ -3,4 +3,4 @@
 Adatvédelmi tájékoztatók / Privacy policies
 
 - [Silent Courier: Carry On](carryon/index.md) (Android: `hu.zakos.carryon`)
-- [Karámfoglalás / Pen Quest](penquest/index.md) (Android)
+- [Karámfoglalás / Pen Quest](penquest/index.md) (Android: `hu.zakos.penquest`)
